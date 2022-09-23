@@ -2,7 +2,11 @@
 VLCKit-Example is a SwiftUI iOS app that demonstrates how to use VLCKit.
 
 # Blog Reference 
-Yet to be published
+https://ajith.blog/how-to-play-ogg-files-on-iOS-with-VLCKit
+
+# Demo Example
+
+![final_project_result](https://user-images.githubusercontent.com/3415400/191940787-b143d371-2af1-489f-b55b-c4745adc3b19.gif)
 
 # Usage
 
